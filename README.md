@@ -1,4 +1,5 @@
-# This... is STM32 Edward
+# This... is Edward 2.0
+
 
 Edward is an STM32 powered robot that can switch back and forth between an autonomous and controlled mode.
 
