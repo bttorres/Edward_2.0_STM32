@@ -3,7 +3,7 @@
 
 Edward is an STM32 powered robot that can switch back and forth between an autonomous and controlled mode.
 
-**************************** INSERT YOUTUBE ****************************
+https://youtu.be/uKFYlaIgm4Q
 
 ## The Code
 
